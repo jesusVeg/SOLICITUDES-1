@@ -27,7 +27,7 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(36, 32)
+        Me.Button1.Location = New System.Drawing.Point(294, 58)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(141, 72)
         Me.Button1.TabIndex = 0
@@ -38,7 +38,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(282, 253)
+        Me.ClientSize = New System.Drawing.Size(1042, 517)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
         Me.Text = "Form1"
